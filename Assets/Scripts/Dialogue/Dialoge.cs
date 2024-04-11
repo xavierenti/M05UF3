@@ -11,16 +11,20 @@ public class Dialoge : MonoBehaviour
 
     private float typeTime = 0.2f;
 
-    private bool dialogueStart;
+    private bool dialogueStart = false;
     private int lineIndex;
+
+
 
     // Start is called before the first frame update
     void Start()
     {
-        if (dialogueStart)
+        /*
+        if (!dialogueStart)
         {
             StartDialogue();
         }
+        */
     }
 
     // Update is called once per frame
@@ -30,11 +34,11 @@ public class Dialoge : MonoBehaviour
         {
             StartDialogue();
         }
-        if (Text.text == lineasDialogo[lineIndex] && Input.GetKeyDown("Jump"))
+        if (Text.text == lineasDialogo[lineIndex] && Input.GetKeyDown("x"))
         {
             NextDialogueLine();
         }
-        else if (Text.text != lineasDialogo[lineIndex] && Input.GetKeyDown("Jump"))
+        else if (Text.text != lineasDialogo[lineIndex] && Input.GetKeyDown("x"))
         {
             StopAllCoroutines();
             Text.text = lineasDialogo[lineIndex];
@@ -76,5 +80,10 @@ public class Dialoge : MonoBehaviour
             Text.text += ch;
             yield return new WaitForSecondsRealtime(typeTime);
         }
+    }
+
+    public void comoestamos()
+    {
+        dialogueStart = true;
     }
 }

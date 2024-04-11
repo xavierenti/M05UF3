@@ -27,8 +27,12 @@ public class PlayerMove : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
+        if (Input.GetKey("f"))
+        {
+            GetComponent<Dialoge>().comoestamos();
+        }
         if (Input.GetKey("d"))
         {
             rb.velocity = new Vector2(runSpeed, rb.velocity.y);
