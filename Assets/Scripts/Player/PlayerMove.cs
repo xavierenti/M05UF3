@@ -56,7 +56,7 @@ public class PlayerMove : MonoBehaviour
                 rb.velocity += Vector2.up * Physics2D.gravity.y * (lowMultiplayer) * Time.deltaTime;
             }
             ani.SetBool("Run", false);
-            ani.SetBool("jump", true);
+            ani.SetBool("Jump", true);
             //rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
         }
         else
