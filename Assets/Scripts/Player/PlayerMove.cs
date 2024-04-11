@@ -8,6 +8,10 @@ public class PlayerMove : MonoBehaviour
     public float jumpSpeed = 3;
     Rigidbody2D rb;
 
+    public float fallMultiplayer = 0.5f;
+    public float lowMultiplayer = 1f;
+
+
     public bool isGrounded = true;
     // Start is called before the first frame update
     void Start()
@@ -28,7 +32,16 @@ public class PlayerMove : MonoBehaviour
         }
         if (Input.GetKey("w") && isGrounded)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
+            if (rb.velocity.y < 0)
+            {
+                rb.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplayer) * Time.deltaTime;
+            }
+            else if(rb.velocity.y > 0 && !Input.GetKey("w"))
+            {
+                rb.velocity += Vector2.up * Physics2D.gravity.y * (lowMultiplayer) * Time.deltaTime;
+            }
+
+            //rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
         }
         else
         {
