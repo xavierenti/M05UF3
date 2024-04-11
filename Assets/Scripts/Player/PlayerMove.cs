@@ -55,6 +55,8 @@ public class PlayerMove : MonoBehaviour
         {
             isGrounded = true;
         }
+
+        
     }
 
     private void OnCollisionExit2D(Collision2D collision)
