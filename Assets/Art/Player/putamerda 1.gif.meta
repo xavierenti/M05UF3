@@ -1,0 +1,3533 @@
+fileFormatVersion: 2
+guid: e1671726f3c38494c9830886013ebdb0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: putamerda 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 910
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6a13907321b544b3ae6cdea6a6a2a
+      internalID: 1418943070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 910
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79660056c665f645b7dbad122066521
+      internalID: 701086771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 910
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d241b74d043f48b7d730cba9c2429
+      internalID: -1956329008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 910
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076233617c164148b456039d070748a
+      internalID: 1147021151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 910
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170aa9eb0743f5645ad6aafe206803a7
+      internalID: -196059810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 910
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2760e6764f95428814558745ada53
+      internalID: 928725843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 910
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd680ef3417cb4caa5a270cfa4ec83
+      internalID: -769743639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 910
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa464c35d09a547b990e9217dd5191
+      internalID: -244588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 910
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dde507bbd320f40b7710e856464043
+      internalID: -1559035680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 904
+        width: 157
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551e49a9913afb439469541e79ae7c8
+      internalID: -77732211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1925cee6df4e944a83c61fa286c2de
+      internalID: 2138243830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd25ca23f9e0e4aa4735e9a01664ff
+      internalID: 559040531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d21b1ea4550b40a4cea0b5c18a98b
+      internalID: -835026875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca750a3b5171441931f2d1d1d5b603
+      internalID: -1218032350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32750a5ee8e5c44e86d6d00df5b343c
+      internalID: 419426457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 860
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3227d5b40cd994eac8d1120102804e
+      internalID: 1370272572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 891
+        width: 157
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2dd0404f4f8fd439f100017a31af02
+      internalID: -2055513029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 874
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3dd1632aaba940a341ec017ed3675
+      internalID: -106394675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 874
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa72be9583a22a49a985aa2a6ec1f74
+      internalID: -760485299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 874
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b062e4c426d74fbea6c4a7dd824e8
+      internalID: 716139981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 817
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e2f4d242fa444aae8fbdb14c31af4
+      internalID: -1411363768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 817
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577de00abbfb704dbb79e06d9286cad
+      internalID: -1353228373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 817
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1e388015c2b649a5e0e7026d9a8ad
+      internalID: 350736652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 818
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6fbc4ea6487b8468c94870ae175e17
+      internalID: 1341988919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 817
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5bafc9ce3f954eb5380ace9a747da
+      internalID: -1067073952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 817
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf592983d24b9f41ad5356d864c48b5
+      internalID: 1398645735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 817
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95112a20d7aa4db4b9cc15349a645e59
+      internalID: -1620236146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 817
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262cd72f962b8e4f94a15d02ab07254
+      internalID: 1273159829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 817
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c9f7c20d5b0d4c8db211b3ded6169
+      internalID: -1907057054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 817
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220e696a1d11cab42abac6d66a543254
+      internalID: -1217550897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 765
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7813efcf6a48f846afa6f54114d00b9
+      internalID: -1034213677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 765
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc28be36bd1964d80f4d97e56a5a79
+      internalID: 1526844984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 765
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d3b3a07c96214a8b49d3db48aaaaf
+      internalID: 2112706333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 765
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072b16d9a6bf774b894a459f13d04ae
+      internalID: 588057453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 765
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536fede10a45d8d478cbc5941a84f77c
+      internalID: 1605294899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 765
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8978dac624e104da5d59810aba7c84
+      internalID: -1582215631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 765
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80199c14c72c64742836413453cf6706
+      internalID: 1147200763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 765
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebef561dbf51c54b9772ba33e560ac5
+      internalID: -859925454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 765
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35d26f05284c84bbf2e3ad46f67efc
+      internalID: -1463010218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 765
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7a52803ae1f64eb540f56fdd950ee
+      internalID: -725754884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 698
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c542778f73dffd4d86eaf3c0a03fe8b
+      internalID: 345961233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 698
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472ec12ff3a30d498db516638373b07
+      internalID: 38199281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 698
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a66d3f4f261564b930d63b7cadfb85
+      internalID: -266792762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 698
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea69a3e999ead0144856d45a4229f434
+      internalID: -2121317633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 698
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33696c7770e5b9f42b3d1ac286b99a47
+      internalID: 56260754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 702
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170799c020756b4984a2f8c9aef8f62
+      internalID: -1263095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 702
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0d09dae33665409bd2ce1d59a2459
+      internalID: -1790214773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 702
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d27c0db266f55748b28eb067d568d7f
+      internalID: 1386944437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 702
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a313490c21dc53419037954015f6dbc
+      internalID: -221915384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_49
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 702
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cbfc2c6e043544f93f3b29fa777682
+      internalID: 1503666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 634
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81dfa4f5c93ce947a1fd27ee15db209
+      internalID: -1005687534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 634
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f7e645dd5f0a4e8ad04ce2c68482b
+      internalID: -2080660024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 637
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a26a19a06464943a0b6731141aa51b
+      internalID: 1054351035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 637
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a96340efa8614eb1fa2ceebefc49f
+      internalID: 308460322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_54
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 632
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807448da74604774cbe6017967ca20d8
+      internalID: -197796315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 644
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e01f0582831f44848971e3465c97c
+      internalID: -528875064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 662
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1485e4ae5149b94182d7a7ef561cbd3
+      internalID: -1477820166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 633
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1004efd88d8c342ab504eb518216c2
+      internalID: -1391976156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 634
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef97cae9db0fc4d9a1743410e18e9e
+      internalID: 1207576083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 633
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb4f228f4dba246997d28f4a5ebce8
+      internalID: -164353005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 575
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a231580d6bcc744b54289d4a9fccfa
+      internalID: -1029993697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 575
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff76668144642b498cc1142f2dd55a5
+      internalID: 106955745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 575
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6d0d55a0c61648a74767953eb20c7
+      internalID: -395084378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 575
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8720bd53362bd546b11fdeda0637443
+      internalID: -1284367141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_64
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 574
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a749d13843ba604f9bd9c9006418102
+      internalID: 1831760838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 575
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90330a191887feb48a9eb5f56f0faf0a
+      internalID: 1302610730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 575
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ebdd9b240a8f4fa5fd6485e17ad04
+      internalID: 1691561847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 575
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3efbe3831ba824a81b006fb879d369
+      internalID: -1763756558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_68
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 575
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d22a1bb9ecaa4a818a57179e1d11b
+      internalID: 617975464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 522
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567b1fa92e7081418e7bc86e7f79c5a
+      internalID: -352005535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 522
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674d6be42e8a2643bbf70018fa99889
+      internalID: -852289029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 522
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba60ddcddb9ef4abc8562fd24df706
+      internalID: 1968298829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 523
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea06fa8108ddc43ad722176ad2189e
+      internalID: -2093434872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 523
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baa48406c49ee445bce8cf8168d37b2
+      internalID: 62514083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 523
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e336d7d0740d744480527909810f9b8
+      internalID: 358641222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_75
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 524
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03099b11a08c2204ba47236a82dd65c7
+      internalID: -408864403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_76
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 524
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd52c67b71c9442b20dda86228a30e
+      internalID: 687590667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 524
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be410bc7c8bcb43ba984873e65a9b4
+      internalID: -1904291087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_78
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 524
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7270080e494cd5e48b0e617c74e7213a
+      internalID: -671932264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 463
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2085b139d993c4d9e530008476d0ed
+      internalID: -1313575466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 463
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6309f0f2c4e8d443972c8daacbf1052
+      internalID: 1572409083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 463
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237ca47574dcb64485d0181d9a0c8bc
+      internalID: 664296989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 463
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f560ddfec1fc4ba9059d8864c226b
+      internalID: -522732270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 460
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26410b7e300ad64393f85eb40e2b4bf
+      internalID: -941886938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_84
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 460
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e72aa588c98d50469dbdfd4c44fdbc8
+      internalID: -764558688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_85
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 460
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c7803fd25a814d88119d396e7d922
+      internalID: 254126776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 460
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fae7e9556db7d459c69405b8626f42
+      internalID: 663465192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 404
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c074d93f22db145a70e880b66aef45
+      internalID: 1599853473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 404
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43f8e9c33e9e64684e9d5bb15719ef
+      internalID: 70894565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cee186e1cb87245912375833023b34
+      internalID: 1329946471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 404
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc2f48893e4b249bb09a47029af220
+      internalID: -1207896585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_91
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 397
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2e4b676228e3469070b64efede834
+      internalID: 226643460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 397
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb3053508991146a72a1b0e1a9c110
+      internalID: -1696317175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 397
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204108b47504f9439dd62aa95a67a62
+      internalID: -1310000758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 342
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e12dc7bf942b49ab5c423564937a9
+      internalID: 287169378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 342
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a344ba260ae34797ad638357a0fc0
+      internalID: 726789219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 342
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f0cdfdeb9475489876cfd4a3e0b5c
+      internalID: 936000064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9688af8e34c95f042ba2323fc3078c50
+      internalID: -474157056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_98
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 336
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b292bd74e9d0047880b57b168b7543
+      internalID: -526503133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_99
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 336
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced712d98d942234b9c20bb7c30a5b2d
+      internalID: 1953986751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d503184efe11343a7a69bb35a3bae6
+      internalID: -594864062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_101
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 270
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72280eb601d351e43bf56468a714da28
+      internalID: 629841110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_102
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 270
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698a5a595b600f439d7bad76ad2bc2f
+      internalID: -57786869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 274
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09b634a09d94c4e85e797996b243d8
+      internalID: -1163091931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_104
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 273
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852e7b99568ca441a16366912fba433
+      internalID: -1517178012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_105
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 273
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444964b4b5feb947bfea8aa753129db
+      internalID: -1012705182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_106
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 271
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963c032a7b0e69488d0375207fa10be
+      internalID: 750707976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_107
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 271
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7bc56a7b0f2324694733975042deb3
+      internalID: 1239337215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 265
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845658e474bbff4abfcabb3edf05b95
+      internalID: -656927407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_109
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 212
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3feba508043ff4b991f140173f58f2
+      internalID: -1520054591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_110
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 212
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24b69a6b6729742b6b499eb112f890
+      internalID: -1462616359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 212
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d440bd8dd0af419fa980685c16c4d
+      internalID: -132385340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_112
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ce94734ca0694da65bd2ed3205070
+      internalID: 1169375289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 226
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737c52d18de6fe48b605d536491942c
+      internalID: -1123576243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_114
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 226
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3373b4bf9005499c8b477cbbcf533
+      internalID: 1907330260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_115
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1aa02b158ef142a90040b77715195
+      internalID: -1298001797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf08128a8dd0e94e88ccff6f6ae9353
+      internalID: -838363225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_117
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 212
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f95bb7c8052e48b6cdc22a601f8b4
+      internalID: 941777712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_118
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fc0716c50222a49afaf5f24be34473
+      internalID: -754267287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_119
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 169
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f600487d89cd13e44b21645d9ad64a77
+      internalID: 48740070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_120
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 169
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef1824e5390ec4b8b882f2059bc39e
+      internalID: 1792998273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ce48195106aa42b11497cc2a197c1
+      internalID: 1414566560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_122
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c87e68d7f6bdd4a9b60d8d72efb7ec
+      internalID: -1670340481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_123
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 169
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5999b9c8f23c40ab50cac94044404
+      internalID: -1964409868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_124
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae381b9d806d44ab71997d1c81564e
+      internalID: -1459766616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_125
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1929b57e5d983546bbc8453ee6f7c1f
+      internalID: -1545421544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 178
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3976dc6a1c71134f8eea01ab895dffe
+      internalID: -1681482068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_127
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 167
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a343de712f94894daf4a619a00b85b2
+      internalID: 135956855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_128
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a92e652ba4c646a371d86fb95ae09
+      internalID: -508367108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49022da04400a4a8990f1bc5163862
+      internalID: 1554855679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_130
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6151841af9c7a8e4a8d8a18fd094c6d9
+      internalID: 1447510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c542df263a789641a64c973c0ee1bf5
+      internalID: 56162357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_132
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c39787b40a184e88809378dd68157
+      internalID: -1473503276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e39a616bee85408af885ba1763a83
+      internalID: 790838525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_134
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9822ab84d5b81aa4aa1f19d012a2317c
+      internalID: -1055286501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df889d3e5cc6a4886d9f9d1f356e94
+      internalID: 1382877381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_136
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d224ed0c5525441b62cf44ec8129aa
+      internalID: 1330819870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2756eb3f97d5e048a9b41dee11c24e4
+      internalID: -1056974617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_138
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbfcb2ea0abd34fb892a16b6a4cf24
+      internalID: 2110744440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_139
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23a129fdb04884e8bb70f099702e7e
+      internalID: 1444804335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_140
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 114
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e80b524bad1b48b35fcff77c51cd1
+      internalID: -39264414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_141
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf70a021b0d5ed4d8264a8391bfedf3
+      internalID: 2076711342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491791cda2d57141a4ddaf194d7ad76
+      internalID: 857690689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_143
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d35b4ebcace04b8830a9607cc8c7e
+      internalID: -1543856103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_144
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 58
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5af4abdf1c64499052fbeed05ebe7
+      internalID: -1322370920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_145
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 58
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9afc0ca7ebbfa4a8db70001ba00373
+      internalID: 1140572759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_146
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 58
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12233bf1ec67247449d5f949ae8c9b55
+      internalID: -1705286371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_147
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 58
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867547049a269049bf89175b340a16d
+      internalID: 1887277858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_148
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11a9cd3283678488763520cfcc0dea
+      internalID: 1210530050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_149
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf6e4bd42cb70429ef82fd018c4b36
+      internalID: -1027768230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_150
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c1d65a582de44cac6cac4d99b8d4d
+      internalID: -1995842167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833fb4d7ad346c4ead39bbe40f6cafc
+      internalID: -767701421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8bfbb6255d65409326e166de850ba
+      internalID: -1276682140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f074bef1313945ab0799a7f33c76b
+      internalID: -937802815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putamerda 1_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff33053c912389e4d8a28e488b299881
+      internalID: -177919461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      putamerda 1_50: -1005687534
+      putamerda 1_34: 1605294899
+      putamerda 1_70: -852289029
+      putamerda 1_145: 1140572759
+      putamerda 1_94: 287169378
+      putamerda 1_54: -197796315
+      putamerda 1_118: -754267287
+      putamerda 1_105: -1012705182
+      putamerda 1_56: -1477820166
+      putamerda 1_25: 1398645735
+      putamerda 1_107: 1239337215
+      putamerda 1_135: 1382877381
+      putamerda 1_96: 936000064
+      putamerda 1_86: 663465192
+      putamerda 1_14: 419426457
+      putamerda 1_119: 48740070
+      putamerda 1_66: 1691561847
+      putamerda 1_87: 1599853473
+      putamerda 1_26: -1620236146
+      putamerda 1_144: -1322370920
+      putamerda 1_38: -1463010218
+      putamerda 1_136: 1330819870
+      putamerda 1_152: -1276682140
+      putamerda 1_30: -1034213677
+      putamerda 1_93: -1310000758
+      putamerda 1_47: 1386944437
+      putamerda 1_102: -57786869
+      putamerda 1_147: 1887277858
+      putamerda 1_67: -1763756558
+      putamerda 1_19: 716139981
+      putamerda 1_42: -266792762
+      putamerda 1_51: -2080660024
+      putamerda 1_69: -352005535
+      putamerda 1_154: -177919461
+      putamerda 1_90: -1207896585
+      putamerda 1_74: 358641222
+      putamerda 1_117: 941777712
+      putamerda 1_130: 1447510
+      putamerda 1_28: -1907057054
+      putamerda 1_21: -1353228373
+      putamerda 1_32: 2112706333
+      putamerda 1_29: -1217550897
+      putamerda 1_79: -1313575466
+      putamerda 1_148: 1210530050
+      putamerda 1_18: -760485299
+      putamerda 1_116: -838363225
+      putamerda 1_1: 701086771
+      putamerda 1_88: 70894565
+      putamerda 1_78: -671932264
+      putamerda 1_91: 226643460
+      putamerda 1_125: -1545421544
+      putamerda 1_110: -1462616359
+      putamerda 1_89: 1329946471
+      putamerda 1_98: -526503133
+      putamerda 1_2: -1956329008
+      putamerda 1_68: 617975464
+      putamerda 1_106: 750707976
+      putamerda 1_84: -764558688
+      putamerda 1_151: -767701421
+      putamerda 1_36: 1147200763
+      putamerda 1_24: -1067073952
+      putamerda 1_122: -1670340481
+      putamerda 1_153: -937802815
+      putamerda 1_0: 1418943070
+      putamerda 1_99: 1953986751
+      putamerda 1_71: 1968298829
+      putamerda 1_72: -2093434872
+      putamerda 1_81: 664296989
+      putamerda 1_60: -1029993697
+      putamerda 1_20: -1411363768
+      putamerda 1_85: 254126776
+      putamerda 1_134: -1055286501
+      putamerda 1_75: -408864403
+      putamerda 1_108: -656927407
+      putamerda 1_131: 56162357
+      putamerda 1_17: -106394675
+      putamerda 1_82: -522732270
+      putamerda 1_143: -1543856103
+      putamerda 1_39: -725754884
+      putamerda 1_58: 1207576083
+      putamerda 1_6: -769743639
+      putamerda 1_123: -1964409868
+      putamerda 1_4: -196059810
+      putamerda 1_40: 345961233
+      putamerda 1_142: 857690689
+      putamerda 1_64: 1831760838
+      putamerda 1_73: 62514083
+      putamerda 1_37: -859925454
+      putamerda 1_53: 308460322
+      putamerda 1_41: 38199281
+      putamerda 1_59: -164353005
+      putamerda 1_33: 588057453
+      putamerda 1_43: -2121317633
+      putamerda 1_65: 1302610730
+      putamerda 1_133: 790838525
+      putamerda 1_104: -1517178012
+      putamerda 1_80: 1572409083
+      putamerda 1_124: -1459766616
+      putamerda 1_121: 1414566560
+      putamerda 1_13: -1218032350
+      putamerda 1_138: 2110744440
+      putamerda 1_83: -941886938
+      putamerda 1_48: -221915384
+      putamerda 1_128: -508367108
+      putamerda 1_7: -244588602
+      putamerda 1_3: 1147021151
+      putamerda 1_149: -1027768230
+      putamerda 1_146: -1705286371
+      putamerda 1_109: -1520054591
+      putamerda 1_10: 2138243830
+      putamerda 1_31: 1526844984
+      putamerda 1_97: -474157056
+      putamerda 1_61: 106955745
+      putamerda 1_114: 1907330260
+      putamerda 1_150: -1995842167
+      putamerda 1_101: 629841110
+      putamerda 1_55: -528875064
+      putamerda 1_52: 1054351035
+      putamerda 1_120: 1792998273
+      putamerda 1_103: -1163091931
+      putamerda 1_5: 928725843
+      putamerda 1_129: 1554855679
+      putamerda 1_76: 687590667
+      putamerda 1_132: -1473503276
+      putamerda 1_137: -1056974617
+      putamerda 1_139: 1444804335
+      putamerda 1_57: -1391976156
+      putamerda 1_35: -1582215631
+      putamerda 1_100: -594864062
+      putamerda 1_9: -77732211
+      putamerda 1_92: -1696317175
+      putamerda 1_63: -1284367141
+      putamerda 1_113: -1123576243
+      putamerda 1_95: 726789219
+      putamerda 1_46: -1790214773
+      putamerda 1_62: -395084378
+      putamerda 1_77: -1904291087
+      putamerda 1_112: 1169375289
+      putamerda 1_23: 1341988919
+      putamerda 1_49: 1503666190
+      putamerda 1_126: -1681482068
+      putamerda 1_16: -2055513029
+      putamerda 1_127: 135956855
+      putamerda 1_111: -132385340
+      putamerda 1_115: -1298001797
+      putamerda 1_11: 559040531
+      putamerda 1_141: 2076711342
+      putamerda 1_12: -835026875
+      putamerda 1_15: 1370272572
+      putamerda 1_22: 350736652
+      putamerda 1_140: -39264414
+      putamerda 1_44: 56260754
+      putamerda 1_45: -1263095340
+      putamerda 1_27: 1273159829
+      putamerda 1_8: -1559035680
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

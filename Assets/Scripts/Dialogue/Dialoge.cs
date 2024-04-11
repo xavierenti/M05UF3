@@ -17,7 +17,7 @@ public class Dialoge : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (!dialogueStart)
+        if (dialogueStart)
         {
             StartDialogue();
         }
@@ -26,7 +26,7 @@ public class Dialoge : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!dialogueStart)
+        if (dialogueStart)
         {
             StartDialogue();
         }
