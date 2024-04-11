@@ -16,12 +16,14 @@ public class PlayerMove : MonoBehaviour
     public bool isGrounded = true;
 
     SpriteRenderer sr;
+    Animator ani;
     
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        ani = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -31,11 +33,13 @@ public class PlayerMove : MonoBehaviour
         {
             rb.velocity = new Vector2(runSpeed, rb.velocity.y);
             sr.flipX = false;
+            ani.SetBool("Run", true);
         }
         if (Input.GetKey("a"))
         {
             rb.velocity = new Vector2(-runSpeed, rb.velocity.y);
             sr.flipX = true;
+            ani.SetBool("Run", true);
         }
         if (Input.GetKey("w") && isGrounded)
         {
@@ -47,7 +51,8 @@ public class PlayerMove : MonoBehaviour
             {
                 rb.velocity += Vector2.up * Physics2D.gravity.y * (lowMultiplayer) * Time.deltaTime;
             }
-
+            ani.SetBool("Run", false);
+            ani.SetBool("jump", true);
             //rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
         }
         else
